@@ -1,5 +1,5 @@
 arquivo = open(
-    "C:/Users/estev/Documents/Bootcamps/Vivo Python Ai Backend Developer/Manipulacao-de-arquivos/lorem.txt", "r"
+    "lorem.txt", "r"
 )
 print(arquivo.read())
 print(arquivo.readline())
